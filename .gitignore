@@ -90,3 +90,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Logs/
 UserSettings/
+ProjectSettings/
