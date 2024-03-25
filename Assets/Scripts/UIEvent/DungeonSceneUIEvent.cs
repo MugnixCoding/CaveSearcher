@@ -1,4 +1,3 @@
-using UnityEditor;
 using UnityEngine;
 
 public class DungeonSceneUIEvent : MonoBehaviour
@@ -41,7 +40,6 @@ public class DungeonSceneUIEvent : MonoBehaviour
     public void OnLeaveGame_button_Click()
     {
         Application.Quit();
-        EditorApplication.isPlaying = false;
     }
     
 }

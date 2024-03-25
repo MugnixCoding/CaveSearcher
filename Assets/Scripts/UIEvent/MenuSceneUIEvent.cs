@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 
 public class MenuSceneUIEvent : MonoBehaviour
@@ -22,6 +21,5 @@ public class MenuSceneUIEvent : MonoBehaviour
     public void LeaveGame()
     {
         Application.Quit();
-        EditorApplication.isPlaying = false;
     }
 }

@@ -1,4 +1,3 @@
-using UnityEditor;
 using UnityEngine;
 
 public class SuccessSceneUIEvent : MonoBehaviour
@@ -14,6 +13,5 @@ public class SuccessSceneUIEvent : MonoBehaviour
     public void OnEndGame_button_Click()
     {
         Application.Quit();
-        EditorApplication.isPlaying = false;
     }
 }
