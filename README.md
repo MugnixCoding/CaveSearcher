@@ -1,5 +1,6 @@
 # **Introduction**  
 A easy simple unity game write with c# code  
+Unity Version 2022.3.0f1  
 The platform I originally aim is PC  
 but you can still play it here on browser  
 https://mugnixcoding.github.io/CaveSearcher/Web/index.html  
